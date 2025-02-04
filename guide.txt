@@ -1,11 +1,11 @@
 1.open eclipse
- run the Application.java file in 10-jobPoratl folder in backend(eclipse)
+ run the Application.java file in java-Backend folder
 
 2. open vs code editor 
   move into React UI -> crud Ui
   
-write command
-npm install(already done)
+3.write command
+npm install
 npm run or npm start
 
  
